@@ -825,6 +825,15 @@ h4 {
     background-image: url("./img/image-de-presentation.webp");
 }
 
+.italic {
+    font-style: italic;
+}
+
+q {
+    color: #333232;
+    font-style: normal;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
