@@ -829,6 +829,11 @@ h4 {
     font-style: italic;
 }
 
+.dark {
+    color: black!important;
+    font-size: 16px;
+}
+
 q {
     color: #333232;
     font-style: normal;
